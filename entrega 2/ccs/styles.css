@@ -1,0 +1,38 @@
+/*reset
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*estilos generales
+
+
+header{
+    text-align: center;
+    padding: 10px;   
+}
+header nav{
+    margin-top: 10px;
+}
+header nav ul li{
+    background-color: coral;
+    display: inline-block;
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: green;
+}
+
+/*estilos de main
+
+main{
+    display:flex;
+    flex-direction: column;
+}
+*/
